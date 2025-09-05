@@ -1,48 +1,53 @@
-# Hi there 👋, I'm Ravi  
-
-🚀 **Aspiring Software Engineer | Data Science & Web Development Enthusiast | CU'27**  
-
-I’m passionate about **coding, crafting solutions, and exploring new technologies**.  
-Currently focusing on **Data Structures & Algorithms, Competitive Programming, Web Development, and Databases**.  
+<h1 align="center">Hi 👋, I'm Ravi</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Data Science & Web Development Enthusiast | CU'27</h3>
 
 ---
 
-## 🔥 About Me  
-- 🎓 Student (Graduating in 2027)  
-- 💻 Strong interests in **Data Science, Data Engineering, and Software Development**  
-- 🌐 Building projects in **PHP, Java, JavaScript, MongoDB, Cassandra, MySQL**  
-- 📊 Completed courses on **EDA with R, 5G Fundamentals, HTML/CSS/JS for Web Dev**  
+## 🌟 About Me  
+- 🎓 Student (Graduating in **2027**)  
+- 💻 Passionate about **Data Science, Data Engineering & Full Stack Development**  
+- 🛠️ Exploring **DSA, Competitive Programming, and Database Systems**  
 - 🚴 Cycling enthusiast & disciplined learner  
+- 🔭 Working on: **Social Networking Dashboard & Smart Health Monitoring System**  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** C++, Java, Python, PHP, JavaScript  
-- **Web:** HTML, CSS, Bootstrap, AJAX, Responsive Design  
-- **Databases:** MySQL, MongoDB, Cassandra  
-- **Other:** Git, GitHub, REST APIs  
+## 🛠️ Languages and Tools  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,javascript,html,css,bootstrap,mysql,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 📈 Current Focus
-- Mastering **DSA & Competitive Programming**  
-- Learning **Full Stack Development**  
-- Research on **Smart Health Monitoring System (Data Visualization + ML)**  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 📂 Featured Projects
-- 🔗 [Social Networking Dashboard](#) – PHP + MySQL + AJAX  
-- 🔗 [Smart Health Monitoring System](#) – Research project with visualization  
-- 🔗 [To-Do List with AJAX + PHP backend](#) – Integrated into dashboard  
+## 🚀 Projects  
+- 🔗 **Social Networking Dashboard** – PHP + MySQL + AJAX  
+- 🔗 **Smart Health Monitoring System** – Data Visualization + ML  
+- 🔗 **To-Do List (AJAX + PHP backend)** – Integrated into dashboard  
 
 ---
 
-## 🤝 Connect with Me
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Email: your.email@example.com  
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40"/></a>
+</p>
 
 ---
 
-⭐️ *“I thrive on exploring innovative solutions, and I’m always eager to learn and build impactful projects.”*  
+⭐️ *“I thrive on exploring innovative solutions, and I’m always eager to learn and build impactful projects.”*
