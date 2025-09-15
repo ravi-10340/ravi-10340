@@ -7,7 +7,9 @@
 
 ---
 
-## 🌟 About Me  
+## 🚀 About Me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" height="100px" align="center">
+<img width="45%" align="right" alt="Coding" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/git-header.svg" />
+
 - 🎓 CS Undergrad | Class of **2027**  
 - 💻 Obsessed with **Data Science, Full Stack Development & Data Engineering**  
 - 🧠 Learning: **DSA, Competitive Programming, and System Design**  
