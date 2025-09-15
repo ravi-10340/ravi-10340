@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" height="250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Data & Web Dev Enthusiast | Lifelong Learner</h3>
 
@@ -56,5 +60,11 @@
 </p>
 
 ---
+
+## 😂 Some Programming Humor (🕶️)
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
+</p>
 
 ⭐ *"I thrive on building innovative solutions and learning by doing. Let's code something impactful together!"*
